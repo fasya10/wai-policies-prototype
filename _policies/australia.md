@@ -3,12 +3,8 @@ lang: en
 order: 6387059
 country:
   en: Australia
-# title_native: # Country name in the country’s language(s), comma separated. For Switzerland: Schweiz, Suisse, Svizzera, Svizra
 updated: 2016-08-30
 updatemsg: Fixed broken links under the DDA, added new procurement policy announced by the Minister of Finance.
-#relatedpages:
-#  - title: Policies in Australian States
-#    url: http://www.w3.org/WAI/Policy/AU-States.html
 policies:
   - title:
       en: Disability Discrimination Act 1992 (DDA)
